@@ -16,5 +16,5 @@ robotframework-datadriver==1.4.1
 #robotframework-soaplibrary
 #robotframework-sshlibrary==$SSH_LIBRARY_VERSION
 #axe-selenium-python==$AXE_SELENIUM_LIBRARY_VERSION
-PyYAML=0.2.5
+PyYAML=5.4
 RESTinstance=1.1.0
